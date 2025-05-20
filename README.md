@@ -78,9 +78,3 @@ This project was part of an interview challenge to demonstrate architectural thi
 
 ---
 
-## 👨‍💻 Author
-
-Santhosh Dhaipule Chandrakanth  
-[LinkedIn](https://www.linkedin.com/in/santhosh-electraanu)  
-[GitHub](https://github.com/santhoshnumberone/santhoshnumberone/tree/main)
-
