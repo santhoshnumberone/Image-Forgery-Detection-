@@ -74,7 +74,7 @@ A 2017 research paper [An Evaluation of Digital Image Forgery Detection Approach
 
 ## 🤝 Acknowledgments
 
-This project was part of an interview challenge to demonstrate architectural thinking, PyTorch proficiency, and a hands-on approach to forgery detection.
+This project was part of an interview challenge to demonstrate architectural thinking, PyTorch proficiency, and a hands-on approach to forgery detection. (2018)
 
 ---
 
