@@ -17,7 +17,7 @@ A 2017 research paper [An Evaluation of Digital Image Forgery Detection Approach
 - Inspired by **InceptionNet**, the model applies multiple convolutions in parallel.
 - One path inside the Inception block includes **two 3x3 convolutions with a skip connection**, inspired by **ResNet**.
 - Later layers are **widened** (deeper filters) to capture global features as much as GPU limits allow.
-- Weights are initialized using He-style initialization:  
+- Weights are initialized using Xavier initialization or Glorot initialization:  
   `sqrt(2 / number of inputs to the layer)`
 
 📌 **See architecture visual**:  
