@@ -71,3 +71,16 @@ A 2017 research paper [An Evaluation of Digital Image Forgery Detection Approach
 - **Wavelet-based CNN** is mentioned but **not implemented**.
 
 ---
+
+## 🤝 Acknowledgments
+
+This project was part of an interview challenge to demonstrate architectural thinking, PyTorch proficiency, and a hands-on approach to forgery detection.
+
+---
+
+## 👨‍💻 Author
+
+Santhosh Dhaipule Chandrakanth  
+[LinkedIn](https://www.linkedin.com/in/santhosh-electraanu)  
+[GitHub](https://github.com/santhoshnumberone/santhoshnumberone/tree/main)
+
